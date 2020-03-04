@@ -1,8 +1,3 @@
-"""
-Name: Hannah Ha Khuong
-Assignment: Final Project, Question 2
-"""
-
 import sys 
 import pandas as pd 
 import sqlite3 as sql
