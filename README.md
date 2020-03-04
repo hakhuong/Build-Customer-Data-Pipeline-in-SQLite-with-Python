@@ -1,5 +1,6 @@
 # Create-customer-database-in-SQLite-with-Python
 
+## Data Pipeline
 This is a Date Pipeline created to import the Cutomer Data File and Sales data. This program will write the data into a new Sqlite3 database and execute data from there. 
 
 - This pipeline can import the daily transaction data given a date range as input in the commandline
@@ -8,7 +9,8 @@ This is a Date Pipeline created to import the Cutomer Data File and Sales data. 
     - Users should be able to run this overall program for 1 day, 2 days or 3 days.
     - Users may have additional datasets to run against as well with missing days in between
 
-- Once the data is imported, data is used to answer these following requests:
+## Analytics
+- Once the data is imported, data is used to answer these following Analytics requests:
     - Cleaned and scrubed as required
     - Identify the Top 5 customers based on spending
     - Identify the Top 3 products being sold
